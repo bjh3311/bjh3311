@@ -16,3 +16,8 @@
 - Samsung Student winter Algorithm Class (2022.01.17~2022.01.28)
 - Student of Kapi`olani Community College, ICS program(2023.01.09 ~ 2023.12.12)
 - HYUNDAI Motor Group Softeer Bootcamp 4th, Back-End (2024.07~2024.08)
+
+# Certification
+- Samsung SDS SW Certification Professional
+- Engineer Information Processing
+- SQLD
