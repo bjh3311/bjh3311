@@ -18,15 +18,30 @@
 
 
 
-# Experience
-- 삼성 SDS 동계 대학생 알고리즘 특강 / Samsung Student winter Algorithm Class (2022.01.17~2022.01.28)
-- Student of Kapi`olani Community College, ICS program(2023.01.09 ~ 2023.12.12)
-- 현대자동차 소프티어 부트캠프 4기 / HYUNDAI Motor Group Softeer Bootcamp 4th, Back-End (2024.07~2024.08)
+## 🏅 Certifications
 
-# Certification
-- 삼성 SDS SW 역량 인증 Pro 자격 / Samsung SDS SW Certification Professional
-- 정보처리기사/ Engineer Information Processing
-- SQLD
+- 삼성SDS SW역량테스트 인증(Professional)
+- 정보처리기사 (2024.06.18)
+- SQLD (2024.12.13)
+
+## 📖 Educations
+
+- 서울과학기술대학교 컴퓨터공학과
+    - 2017.03 ~ 2024.02. (Graduated)
+    - 학점 3.63 / 4.5
+    - 전공학점 3.823 / 4.5
+- Student of Kapi`olani Community College, ICS program(2023.01.09 ~ 2023.12.12)
+
+## 🎒 Activities
+
+- 삼성 SDS 동계 대학생 알고리즘 특강(2022.01.17~01.28)
+  - DFS, BFS, DP 등과 같은 알고리즘 학습
+  - 스택, 큐, 힙 등과 같은 자료구조 학습 
+- 현대자동차 소프티어 부트캠프 4기(2024.07.01 ~ 2024.08.29)
+  - 현대자동차에서 주관하는 부트캠프 수강
+  - 백엔드 프로젝트
+- SK C&C AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
+  - 생성형 AI 활용 풀스택 개발자 양성 과정
 
 # Projects
 - 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기) : https://battle-breeze-fab.notion.site/1eba809e2cca803e98f5d39b6cc06005
