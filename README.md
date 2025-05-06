@@ -27,3 +27,7 @@
 - 삼성 SDS SW 역량 인증 Pro 자격 / Samsung SDS SW Certification Professional
 - 정보처리기사/ Engineer Information Processing
 - SQLD
+
+# Projects
+- 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기)
+- MeetSync (글로벌 화상 회의 플랫폼)
