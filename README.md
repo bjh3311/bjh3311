@@ -18,7 +18,8 @@
 
 <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
-
+## 🏆 Awards
+- 최우수 소프티어(1st) - 현대자동차 소프티어 부트캠프 4기
 
 ## 🏅 Certifications
 
