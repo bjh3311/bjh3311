@@ -1,5 +1,7 @@
 
 ## 🧑🏻‍💻 About ME 🧑🏻‍💻
+### 꾸준하게 지식을 쌓으며 항상 성장하려는 개발자입니다
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh3311)](https://solved.ac/bjh3311/)
 
 
@@ -35,13 +37,8 @@
 ## 🎒 Activities
 
 - 삼성 SDS 동계 대학생 알고리즘 특강(2022.01.17~01.28)
-  - DFS, BFS, DP 등과 같은 알고리즘 학습
-  - 스택, 큐, 힙 등과 같은 자료구조 학습 
-- 현대자동차 소프티어 부트캠프 4기(2024.07.01 ~ 2024.08.29)
-  - 현대자동차에서 주관하는 부트캠프 수강
-  - 백엔드 프로젝트
+- 현대자동차 소프티어 부트캠프 4기 백엔드 (2024.07.01 ~ 2024.08.29)
 - SK C&C AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
-  - 생성형 AI 활용 풀스택 개발자 양성 과정
 
 # Projects
 - 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기) : https://battle-breeze-fab.notion.site/1eba809e2cca803e98f5d39b6cc06005
