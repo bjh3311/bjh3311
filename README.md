@@ -20,6 +20,7 @@
 
 ## 🏆 Awards
 - 최우수 소프티어(1st) - 현대자동차 소프티어 부트캠프 4기
+- 최우수상(1st) - SK AX AI Leadership Academy 1기
 
 ## 🏅 Certifications
 
@@ -39,7 +40,7 @@
 
 - 삼성 SDS 동계 대학생 알고리즘 특강(2022.01.17~01.28)
 - 현대자동차 소프티어 부트캠프 4기 백엔드 (2024.07.01 ~ 2024.08.29)
-- SK C&C AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
+- SK AX AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
 
 ## 🔗 Projects
 - 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기) : https://battle-breeze-fab.notion.site/1eba809e2cca803e98f5d39b6cc06005
