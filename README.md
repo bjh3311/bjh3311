@@ -15,6 +15,7 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 ## 🏆 Awards
 - 최우수 소프티어(1st) - 현대자동차 소프티어 부트캠프 4기
@@ -39,7 +40,7 @@
 - 삼성 SDS 동계 대학생 알고리즘 특강(2022.01.17~01.28)
 - 현대자동차 소프티어 부트캠프 4기 백엔드 (2024.07.01 ~ 2024.08.29)
 - SK AX AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
-
+- 핀다이렉트 AI 상담 챗봇 구축 (2025.12.08 ~ 현재)
 
 
 ## ETC
