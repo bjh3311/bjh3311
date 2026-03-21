@@ -1,8 +1,11 @@
 
 ## 🧑🏻‍💻 About ME 🧑🏻‍💻
-### 꾸준하게 지식을 쌓으며 항상 성장하려는 개발자입니다
+### AI 기능을 실제 서비스 환경에 적용하고 운영하고 있는 백엔드 개발자 배진환입니다.
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh3311)](https://solved.ac/bjh3311/)
+## 🔗 Projects
+- 핀다이렉트 AI 상담 챗봇 구축 : https://battle-breeze-fab.notion.site/AI-321a809e2cca80ce8206c06e802281d9
+-  MeetSync (SK C&C AI Leader Academy 1기) : https://battle-breeze-fab.notion.site/MeetSync-SKALA-15ea809e2cca81ebbe63c5b871766c53
+- 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기) : https://battle-breeze-fab.notion.site/1eba809e2cca803e98f5d39b6cc06005
 
 
 
@@ -42,6 +45,7 @@
 - 현대자동차 소프티어 부트캠프 4기 백엔드 (2024.07.01 ~ 2024.08.29)
 - SK AX AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
 
-## 🔗 Projects
-- 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기) : https://battle-breeze-fab.notion.site/1eba809e2cca803e98f5d39b6cc06005
-- MeetSync (SK C&C AI Leader Academy 1기) : https://battle-breeze-fab.notion.site/MeetSync-SKALA-15ea809e2cca81ebbe63c5b871766c53
+
+
+## ETC
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh3311)](https://solved.ac/bjh3311/)
