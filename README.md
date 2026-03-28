@@ -7,6 +7,12 @@
 -  MeetSync (SK C&C AI Leader Academy 1기) : https://battle-breeze-fab.notion.site/MeetSync-SKALA-15ea809e2cca81ebbe63c5b871766c53
 - 신차 홍보 이벤트 페이지 (현대자동차 소프티어 부트캠프 4기) : https://battle-breeze-fab.notion.site/1eba809e2cca803e98f5d39b6cc06005
 
+## 🎒 Activities
+- 스테이지파이브 재직, 핀다이렉트 AI 상담 챗봇 구축 (2025.12.08 ~ 현재)
+- SK AX AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
+- 현대자동차 소프티어 부트캠프 4기 백엔드 (2024.07.01 ~ 2024.08.29)
+- 삼성 SDS 동계 대학생 알고리즘 특강(2022.01.17~01.28)
+
 ## ⛏️ Skills and Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> 
 <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white"/>
@@ -36,12 +42,7 @@
     - 전공학점 3.823 / 4.5
 - Student of Kapi`olani Community College, ICS program(2023.01.09 ~ 2023.12.12)
 
-## 🎒 Activities
 
-- 삼성 SDS 동계 대학생 알고리즘 특강(2022.01.17~01.28)
-- 현대자동차 소프티어 부트캠프 4기 백엔드 (2024.07.01 ~ 2024.08.29)
-- SK AX AI Leader Academy 1기(2025.02.03 ~ 2025.07.08)
-- 핀다이렉트 AI 상담 챗봇 구축 (2025.12.08 ~ 현재)
 
 
 ## ETC
